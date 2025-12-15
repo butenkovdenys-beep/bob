@@ -3,3 +3,7 @@
 ![alt text](image-1.png)
 ![alt text](image.png)
 ![alt text](image-2.png)
+Висновок
+
+Під час виконання цієї роботи було успішно налаштовано середовище розробки Visual Studio Code та інтегровано його з сервісом GitHub, що дозволяє ефективно керувати версіями проєктів. Також було здійснено початок роботи з мовою програмування Python
+![logo-lit](https://github.com/user-attachments/assets/6679011f-f0d1-4d87-ade2-dd674641bdba)
